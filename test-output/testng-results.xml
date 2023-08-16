@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T10:08:27 IST" name="Suite" finished-at="2023-08-16T10:10:26 IST" duration-ms="118471">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T10:08:27 IST" name="Test" finished-at="2023-08-16T10:10:26 IST" duration-ms="118471">
+      <class name="com.EBanking.tests.PayBillsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:21 IST" name="setUp" finished-at="2023-08-16T10:09:26 IST" duration-ms="4694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MakePaymensOfChecking()[pri:1, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:26 IST" name="MakePaymensOfChecking" finished-at="2023-08-16T10:09:34 IST" duration-ms="8035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakePaymensOfChecking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:34 IST" name="tearDown" finished-at="2023-08-16T10:09:34 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:34 IST" name="setUp" finished-at="2023-08-16T10:09:38 IST" duration-ms="4535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MakePaymensOfLoan()[pri:2, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:38 IST" name="MakePaymensOfLoan" finished-at="2023-08-16T10:09:46 IST" duration-ms="7573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakePaymensOfLoan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:46 IST" name="tearDown" finished-at="2023-08-16T10:09:46 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:46 IST" name="setUp" finished-at="2023-08-16T10:09:51 IST" duration-ms="4845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MakePaymentOfCreditCard()[pri:3, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:51 IST" name="MakePaymentOfCreditCard" finished-at="2023-08-16T10:09:59 IST" duration-ms="8472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakePaymentOfCreditCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:09:59 IST" name="tearDown" finished-at="2023-08-16T10:10:00 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:00 IST" name="setUp" finished-at="2023-08-16T10:10:04 IST" duration-ms="4599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewPayees()[pri:4, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:04 IST" name="addNewPayees" finished-at="2023-08-16T10:10:12 IST" duration-ms="8226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewPayees -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:12 IST" name="tearDown" finished-at="2023-08-16T10:10:13 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:13 IST" name="setUp" finished-at="2023-08-16T10:10:17 IST" duration-ms="4698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="purchaseForeignCurrency()[pri:5, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:17 IST" name="purchaseForeignCurrency" finished-at="2023-08-16T10:10:26 IST" duration-ms="8212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseForeignCurrency -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.PayBillsTest@291b4bf5]" started-at="2023-08-16T10:10:26 IST" name="tearDown" finished-at="2023-08-16T10:10:26 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.EBanking.tests.PayBillsTest -->
+      <class name="com.EBanking.tests.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:28 IST" name="setUp" finished-at="2023-08-16T10:08:37 IST" duration-ms="9388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithValidCredential(java.lang.String,java.lang.String)[pri:1, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:37 IST" name="loginWithValidCredential" data-provider="Data Supplier" finished-at="2023-08-16T10:08:42 IST" duration-ms="4556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:42 IST" name="tearDown" finished-at="2023-08-16T10:08:42 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:42 IST" name="setUp" finished-at="2023-08-16T10:08:50 IST" duration-ms="8157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithinvalidCredential()[pri:2, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:50 IST" name="loginWithinvalidCredential" finished-at="2023-08-16T10:08:51 IST" duration-ms="1086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithinvalidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:51 IST" name="tearDown" finished-at="2023-08-16T10:08:51 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:51 IST" name="setUp" finished-at="2023-08-16T10:08:56 IST" duration-ms="4768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithNoCredential()[pri:3, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:56 IST" name="loginWithNoCredential" finished-at="2023-08-16T10:08:57 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithNoCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:57 IST" name="tearDown" finished-at="2023-08-16T10:08:57 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:08:57 IST" name="setUp" finished-at="2023-08-16T10:09:02 IST" duration-ms="4511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithOnlyUserName()[pri:4, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:02 IST" name="loginWithOnlyUserName" finished-at="2023-08-16T10:09:02 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithOnlyUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:02 IST" name="tearDown" finished-at="2023-08-16T10:09:03 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:03 IST" name="setUp" finished-at="2023-08-16T10:09:07 IST" duration-ms="4678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithOnlyPassword()[pri:5, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:07 IST" name="loginWithOnlyPassword" finished-at="2023-08-16T10:09:08 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithOnlyPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:08 IST" name="tearDown" finished-at="2023-08-16T10:09:08 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:08 IST" name="setUp" finished-at="2023-08-16T10:09:13 IST" duration-ms="4684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithAllFields()[pri:6, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:13 IST" name="loginWithAllFields" finished-at="2023-08-16T10:09:16 IST" duration-ms="3005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:16 IST" name="tearDown" finished-at="2023-08-16T10:09:16 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:16 IST" name="setUp" finished-at="2023-08-16T10:09:21 IST" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="forgetPasswordOptionAvailableOrNot()[pri:7, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:21 IST" name="forgetPasswordOptionAvailableOrNot" finished-at="2023-08-16T10:09:21 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordOptionAvailableOrNot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.EBanking.tests.LoginTest@1e66f1f5]" started-at="2023-08-16T10:09:21 IST" name="tearDown" finished-at="2023-08-16T10:09:21 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.EBanking.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
